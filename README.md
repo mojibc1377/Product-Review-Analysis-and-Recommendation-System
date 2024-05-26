@@ -50,6 +50,7 @@ This bar chart shows the top 10 products with the lowest average ratings. It hel
 1. **Install the required libraries**:
    ```bash
    pip install pandas matplotlib seaborn
+   python analysis.py
 
 ### README for `recommendator.py`
 
@@ -81,3 +82,4 @@ The recommendation script (`recommendator.py`) is responsible for generating pro
 1. **Install the required libraries**:
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
+   python recommendator.py
