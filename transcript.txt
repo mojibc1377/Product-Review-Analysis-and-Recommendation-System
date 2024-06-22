@@ -1,0 +1,5 @@
+Let me put you onto a coding project you could build this summer to get hired and it uses both AI and machine learning, so I guarantee you it will set you apart amongst all the thousands of candidates that will be applying to the same job as you. Okay, so if you're a big sports guy like me or not, it doesn't really matter that much.
+
+You'll know that the euro 2024 is starting in a month's time. What you're going to do is build a machine learning algorithm that's able to predict the outcome of matches before doing anything. We need data to train our model, so you could either be boring and go and find any CSV file online, or go watch this video by DataQuest to learn web scraping as well.
+
+Once you have this data, you want to use pandas and the random Forest classifier by scikit learn in python. You could then easily train a model based off of the previous scores to try to predict any future outcomes. If you need any help, check out this YouTube video. He covers everything but for the Premier League, and if you want to take it to the next level, you could try to build a model that predicts the scores for any fantasy sports teams.
